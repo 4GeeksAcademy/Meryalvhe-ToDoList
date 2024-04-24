@@ -1,0 +1,7 @@
+.hidden-icon > span {
+    visibility: hidden;
+}
+/* Muestra el icono cuando el cursor pase por encima del li */
+.hidden-icon:hover > span {
+    visibility: visible;
+}
